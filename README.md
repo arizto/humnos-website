@@ -6,11 +6,18 @@ Terima kasih
 
 # Panduan Install / Set up
 
-1. Buka Terminal
+1. copy folder cms dan api ke webserver anda
 
-2. Jalankan perintah `composer install` di folder cms dan api
+2. Buka terminal / command prompt
 
-3. Import database yang ada di dalam folder database
+3. Jalankan perintah `composer install` di folder cms dan api
+
+4. Import database yang ada di dalam folder database
+
+5. Login default untuk cms : 
+
+- user : admin
+- pass : admin
 
 # Informasi tambahan
 
