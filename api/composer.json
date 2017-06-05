@@ -1,0 +1,13 @@
+{
+    "name": "eleos/humnos",
+    "description": "Eleos Humnos API Scripts",
+    "require": {
+        "silex/silex": "~2.0"
+    },
+    "authors": [
+        {
+            "name": "Stevie Aristo Maryono",
+            "email": "aristo.maryono@gmail.com"
+        }
+    ]
+}
